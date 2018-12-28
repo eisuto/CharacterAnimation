@@ -1,5 +1,5 @@
 #           用C语言实现字符动画
-## 新人第一次，有不足还请多多指教。<br/>参考：https://bbs.bccn.net/thread-328660-1-1.html
+## 新人第一次，有不足还请多多指教。<br/>参考   https://bbs.bccn.net/thread-328660-1-1.html
 ### 总体的思路
 <br/>一：选取一段视频，使用PotPlayer（或自己写一个类似功能的）把这段视频截图，每一帧截取一次。<br/>
 <br/>二：把截取到的图片用Python转换成txt，一张图片保存成一个txt。python大佬链接：https://github.com/Whale3070/ctf-coding<br/>
